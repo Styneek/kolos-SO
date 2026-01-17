@@ -1,3 +1,0 @@
-Rodzic inicjalizacja
-dziecko przetwarza dane
-rodzic konczy
